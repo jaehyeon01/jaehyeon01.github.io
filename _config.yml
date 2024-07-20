@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    :"jaehyeon's blog"
+title                    : "jaehyeon's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     :"JaeHyeon"
-description              :"An amazing website."
+name                     : "JaeHyeon"
+description              : "An amazing website."
 url                      : "https://jaehyeon01.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             :"JaeHyeon"
+  name             : "JaeHyeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :"Catholic University MTC"
-  location         :"republic of korea"
-  email            :"semicolon0504@gmail.com"
+  bio              : "Catholic University **MTC**"
+  location         : "republic of korea"
+  email            : "semicolon0504@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
