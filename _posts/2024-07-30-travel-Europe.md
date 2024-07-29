@@ -16,17 +16,17 @@ title:  "유럽 여행 총정리"
 ##### 알리안츠 아레나도 보고 기억에 남는 건 애플 비전프로를 보았다는거...!
 ___
 #### **두 번째 잘츠부르크**
-![area2](images/Salzburg-1.jpg){: width="25%" height="25%"}
+![area1](images/Salzburg-1.jpg){: width="25%" height="25%"}
 
-![area2](images/Salzburg-2.jpg){: width="25%" height="25%"}
+![area1](images/Salzburg-2.jpg){: width="25%" height="25%"}
 
-![area2](images/Salzburg-3.jpg){: width="25%" height="25%"}
+![area1](images/Salzburg-3.jpg){: width="25%" height="25%"}
 ##### 오스트리아의 잘츠부르크로 넘어왔습니다.
 ##### 사운드오브뮤직의 촬영지를 본게 기억에 남군요..
 ##### 여기서 먹은 굴뚝빵이 진짜 ㄹㅇ개맛꿀마
 ___
 #### **세 번째 할슈타트**
-![area2](images/Hallstatt-1.jpg){: width="25%" height="25%"}
+![area1](images/Hallstatt-1.jpg){: width="25%" height="25%"}
 
 ![area2](images/Hallstatt-2.jpg){: width="25%" height="25%"}
 ##### 오스트리아의 할슈타트로 엄청 구불거리는 길을 따라 들어갔습니다.
