@@ -227,7 +227,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/Time_in_South_Korea
+timezone: Asia/Seoul
 
 
 # Pagination with jekyll-paginate
