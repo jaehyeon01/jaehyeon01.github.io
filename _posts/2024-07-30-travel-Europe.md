@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "유럽 여행 총정리"
+categories: review
 ---
 
 여행하면서 각 지역을 배경으로 메타몽으로 사진을 남겼습니다..ㅎ
