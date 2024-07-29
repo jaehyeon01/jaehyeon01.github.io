@@ -16,103 +16,103 @@ title:  "유럽 여행 총정리"
 ##### 알리안츠 아레나도 보고 기억에 남는 건 애플 비전프로를 보았다는거...!
 ___
 #### **두 번째 잘츠부르크**
-![area1](images/Salzburg-1.jpg){: width="25%" height="25%"}
+![area1](/images/Salzburg-1.jpg){: width="25%" height="25%"}
 
-![area1](images/Salzburg-2.jpg){: width="25%" height="25%"}
+![area1](/images/Salzburg-2.jpg){: width="25%" height="25%"}
 
-![area1](images/Salzburg-3.jpg){: width="25%" height="25%"}
+![area1](/images/Salzburg-3.jpg){: width="25%" height="25%"}
 ##### 오스트리아의 잘츠부르크로 넘어왔습니다.
 ##### 사운드오브뮤직의 촬영지를 본게 기억에 남군요..
 ##### 여기서 먹은 굴뚝빵이 진짜 ㄹㅇ개맛꿀마
 ___
 #### **세 번째 할슈타트**
-![area1](images/Hallstatt-1.jpg){: width="25%" height="25%"}
+![area1](/images/Hallstatt-1.jpg){: width="25%" height="25%"}
 
-![area2](images/Hallstatt-2.jpg){: width="25%" height="25%"}
+![area2](/images/Hallstatt-2.jpg){: width="25%" height="25%"}
 ##### 오스트리아의 할슈타트로 엄청 구불거리는 길을 따라 들어갔습니다.
 ##### 와 여기 풍경은 진짜 절경이었습니다
 ##### 엄청 자유롭고 평화롭고 이전에 봤던 스위스의 느낌을 느꼈습니다.
 ___
 #### **네 번째 쇤부른궁전**
-![area2](images/Schönbrunn-1.jpg){: width="25%" height="25%"}
+![area2](/images/Schönbrunn-1.jpg){: width="25%" height="25%"}
 
-![area2](images/Schönbrunn-2.jpg){: width="25%" height="25%"}
+![area2](/images/Schönbrunn-2.jpg){: width="25%" height="25%"}
 
-![area2](images/Schönbrunn-3.jpg){: width="25%" height="25%"}
+![area2](/images/Schönbrunn-3.jpg){: width="25%" height="25%"}
 ##### 오스트리아 수도 빈에 있는 쇤부른 궁전입니다!
 ##### 그냥 개더워서 너무 힘들었던 기억이 있네요..
 ##### 그래도 이런 유럽식 건물을 볼 때마다 인간이 만든게 맞나.. 하는 생각이 들었슴다
 ___
 #### **다섯 번째 벨베데르궁전**
-![area2](images/Belvedere-1.jpg){: width="25%" height="25%"}
+![area2](/images/Belvedere-1.jpg){: width="25%" height="25%"}
 ##### 이곳도 오스트리아 빈에 위치한 궁전입니다
 ##### 같은 날에 두 궁전을 보니까 두 기억이 짬뽕이 되긴 했지만
 ##### 둘 다 웅장한 궁전이었습니다
 ___
 #### **슈테판 대성당**
-![area2](images/Stephen-1.jpg){: width="25%" height="25%"}
+![area2](/images/Stephen-1.jpg){: width="25%" height="25%"}
 ##### 여기도 빈에 있는 대성당임다
 ##### 빈에서는 오래 머물러서 먼갈 많이 봤네요
 ##### 되게 맛있는 폭립을 떵개한게 가장 기억에 남네요
 ___
 #### **부다페스트**
-![area2](images/Budapest-1.jpg){: width="25%" height="25%"}
+![area2](/images/Budapest-1.jpg){: width="25%" height="25%"}
 
-![area2](images/Budapest-2.jpg){: width="25%" height="25%"}
+![area2](/images/Budapest-2.jpg){: width="25%" height="25%"}
 ##### 부다페스트가 원래 부다와 페스트 두 나라였다는걸 아셨나요..?
 ##### 여긴 야경이 굉장히 예뻤습니다
 ##### 밥은 그저 그랬지만 전 아무거나 잘 먹어서 야무지게 떵개도 했고...ㅎ
 ___
 #### **영웅 광장**
-![area2](images/Heroes-1.jpg){: width="25%" height="25%"}
+![area2](/images/Heroes-1.jpg){: width="25%" height="25%"}
 ##### 영웅 광장이라는 곳에 왔는데 원래 다음 날에 가기로 했는데
 ##### 내일 무슨 공연?이 있다고 해서 못 가게 되가지고 하루 빨리 왔습니다
 ##### 먼가 애니 블랙클로버가 생각나는 느낌이었던 기억이 있네요..
 ___
 #### **부다 왕궁**
-![area2](images/Buda-1.jpg){: width="25%" height="25%"}
+![area2](/images/Buda-1.jpg){: width="25%" height="25%"}
 ##### 부다쪽에 있는 왕궁입니다 여기도 야경으로 보면
 ##### 굉장히 이쁩니다
 ##### 공사중인 곳이 있어서 좀 아쉬웠던 곳이네요
 ___
 #### **성 이슈트반 대성당**
-![area2](images/Istvan-1.jpg){: width="25%" height="25%"}
+![area2](/images/Istvan-1.jpg){: width="25%" height="25%"}
 ##### 부다페스트에 있는 성 이슈트반 대성당입니다
 ##### 이름이 먼가 간지는 성당이어서 기억에 남습니다..ㅋㅋ
 ##### 더운 날씨에 성당 안은 그래도 좀 서늘해서 좋았습니다
 ___
 #### **슬로바키아**
-![area2](images/Slovakia-1.jpg){: width="25%" height="25%"}
+![area2](/images/Slovakia-1.jpg){: width="25%" height="25%"}
 ##### 슬로바키아는 딱히 다른 일정은 없고
 ##### 이동하면서 잠깐 들리는 장소였습니다
 ##### 그냥 휴게소에서만 있어서 큰 기억이 없네요
 ___
 #### **브르노**
-![area2](images/Brno-1.jpg){: width="25%" height="25%"}
+![area2](/images/Brno-1.jpg){: width="25%" height="25%"}
 
-![area2](images/Brno-2.jpg){: width="25%" height="25%"}
+![area2](/images/Brno-2.jpg){: width="25%" height="25%"}
 ##### 체코로 넘어와서 브르노라는 곳에 머물렀습니다
 ##### 여기서 새벽에 혼자 DCA 공모전 준비했던게 기억에 나네요..
 ##### 이때부터 감기에 걸려서 굉장히 힘들었습니다..
 ___
 #### **프라하**
-![area2](images/Prague-1.jpg){: width="25%" height="25%"}
+![area2](/images/Prague-1.jpg){: width="25%" height="25%"}
 
-![area2](images/Prague-2.jpg){: width="25%" height="25%"}
+![area2](/images/Prague-2.jpg){: width="25%" height="25%"}
 
-![area2](images/Prague-3.jpg){: width="25%" height="25%"}
+![area2](/images/Prague-3.jpg){: width="25%" height="25%"}
 ##### 체코의 프라하로 왔습니다
 ##### 여긴 건물 풍경이 굉장히 좋았습니다.
 ##### 고프로 들고 다닐 맛 나는 곳이었음다
 ___
 #### **필센**
-![area2](images/Pilsen-1.jpg){: width="25%" height="25%"}
+![area2](/images/Pilsen-1.jpg){: width="25%" height="25%"}
 ##### 체코에서의 마지막 날
 ##### 맥주 공장에 왔습니다
 ##### 정제되지 않은 완전 리얼 생맥주를 마셨는데 역할맥이 더 맛있음.
 ___
 #### **체스키 크룸로프 성**
-![area2](images/CeskyKrumlov-1.jpg){: width="25%" height="25%"}
+![area2](/images/CeskyKrumlov-1.jpg){: width="25%" height="25%"}
 ##### 체코 마지막 여정
 ##### 여기 진짜 좋았어요 풍경, 분위기, 낭만
 ##### 그림 그리는 대만 형 인스타도 따고, 레프팅 하시는 분들과 아호이~~! 소리도 지르고
