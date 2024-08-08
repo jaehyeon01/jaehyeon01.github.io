@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "유럽 여행 총정리"
 categories: review
 ---
