@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "이미지 테스트"
 categories: process
 ---
